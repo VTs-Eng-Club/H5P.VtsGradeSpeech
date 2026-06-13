@@ -1,0 +1,25 @@
+{
+  "title": "VTS Grade Speech",
+  "description": "A library for grading speech in VTS.",
+  "majorVersion": 1,
+  "minorVersion": 0,
+  "patchVersion": 0,
+  "runable": 1,
+  "author": "Neal Dam",
+  "license": "MIT",
+  "MachineName": "H5P.VtsGradeSpeech",
+  "coreApi": {
+    "majorVersion": 1,
+    "minorVersion": 0
+  },
+  "preloadedJs": [
+    {
+      "path": "vts-grade-speech.js"
+    }
+  ],
+  "preloadedCss": [
+    {
+      "path": "vts-grade-speech.css"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+[
+  {
+    "label": "Whisper ASR Host",
+    "name": "whisperAsrHost",
+    "type": "text",
+    "optional": false,
+    "default": "localhost",
+    "description": "The host address of the Whisper ASR service."
+  },
+  {
+    "label": "Whisper ASR Port",
+    "name": "whisperAsrPort",
+    "type": "number",
+    "optional": false,
+    "default": 9000,
+    "description": "The port number of the Whisper ASR service."
+  }
+]
